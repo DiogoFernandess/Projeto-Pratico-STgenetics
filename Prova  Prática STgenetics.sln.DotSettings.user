@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=769cf0be_002D5040_002D42be_002Dab6a_002D773de94ab605/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateOrder_WithDuplicateCategory_ShouldReturn400BadRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F0FC8FAD-700D-43CE-86B4-2CFFF54878F3::net10.0::Prova__Prática_STgenetics.Tests.DuplicateItemsTests.CreateOrder_WithDuplicateCategory_ShouldReturn400BadRequest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e944fc06_002Daaba_002D4e22_002Db3ff_002D143ad3a3d5df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateOrder_WithDuplicateCategory_ShouldReturn400BadRequest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F0FC8FAD-700D-43CE-86B4-2CFFF54878F3::net10.0::Prova__Prática_STgenetics.Tests.DuplicateItemsTests.CreateOrder_WithDuplicateCategory_ShouldReturn400BadRequest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F0FC8FAD-700D-43CE-86B4-2CFFF54878F3::net10.0::Prova__Prática_STgenetics.Tests.OrderDiscountTests.CalculateTotal_WithSandwichAndFires_Apply10PercentDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F0FC8FAD-700D-43CE-86B4-2CFFF54878F3::net10.0::Prova__Prática_STgenetics.Tests.CreateOrderTests.CreateOrder_WithValidProducts_ShouldReturn201Created&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F0FC8FAD-700D-43CE-86B4-2CFFF54878F3::net10.0::Prova__Prática_STgenetics.Tests.OrderDiscountTests.CalculateTotal_WithFullCombo_Apply20PercentDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F0FC8FAD-700D-43CE-86B4-2CFFF54878F3::net10.0::Prova__Prática_STgenetics.Tests.OrderDiscountTests.CalculateTotal_WithSandwichAndSoda_Apply15PercentDiscount&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

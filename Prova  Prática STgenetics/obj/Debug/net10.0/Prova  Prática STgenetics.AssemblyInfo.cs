@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prova  Prática STgenetics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07754be1a24eeb8a02a42681508d789458f40237")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+135260ae2a77d0bf29bc9ff912fb8ee0ed858e57")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prova  Prática STgenetics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prova  Prática STgenetics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

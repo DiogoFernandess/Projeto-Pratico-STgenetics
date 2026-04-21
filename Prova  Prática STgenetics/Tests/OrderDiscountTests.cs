@@ -35,8 +35,8 @@ public class OrderDiscountTests
         order.CalculateTotals(discountService);
         
         Assert.Equal(7.50m, order.Subtotal);
-        Assert.Equal(1.90m, order.Discount);
-        Assert.Equal(7.60m, order.Total);
+        Assert.Equal(1.1250m, order.Discount);
+        Assert.Equal(6.3750m, order.Total);
     }
     
     [Fact] 
