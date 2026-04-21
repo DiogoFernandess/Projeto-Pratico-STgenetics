@@ -7,9 +7,9 @@ public class SandwichAndSodaDiscount : IDiscount
 {
     public bool IsMatch(IEnumerable<Product> items)
     {
-        return items.Any(i => i.Category == ProductCategory.Sandwich) &&
-               items.Any(i => i.Category == ProductCategory.Soda) &&
-               !items.Any(i => i.Category == ProductCategory.Fries);
+        return items.Any(i => i.CategoryEnum == ProductCategoryEnum.Sandwich) &&
+               items.Any(i => i.CategoryEnum == ProductCategoryEnum.Soda) &&
+               !items.Any(i => i.CategoryEnum == ProductCategoryEnum.Fries);
     }
 
     public decimal CalculateDiscount(IEnumerable<Product> items)

@@ -17,9 +17,9 @@ public class Order
             throw new ArgumentNullException(nameof(product), "O produto não pode ser nulo.");
         }
 
-        if (_items.Any(i => i.Category == product.Category))
+        if (_items.Any(i => i.CategoryEnum == product.CategoryEnum))
         {
-            throw new InvalidOperationException($"O pedido já contém um item da categoria {product.Category}. Item duplicado.");
+            throw new InvalidOperationException($"O pedido já contém um item da categoria {product.CategoryEnum}. Item duplicado.");
         }
 
         _items.Add(product);

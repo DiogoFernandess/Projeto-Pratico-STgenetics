@@ -1,19 +1,35 @@
 {
   "version": 2,
-  "dgSpecHash": "YbRfKx00bwk=",
+  "dgSpecHash": "pAyWaO8JYr8=",
   "success": true,
   "projectFilePath": "/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/Prova  Prática STgenetics.csproj",
   "expectedPackageFiles": [
+    "/home/diogo/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0/microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.0/microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/diogo/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "/home/diogo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/diogo/.nuget/packages/microsoft.testplatform.objectmodel/17.8.0/microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "/home/diogo/.nuget/packages/microsoft.testplatform.testhost/17.8.0/microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "/home/diogo/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
+    "/home/diogo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/diogo/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/diogo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/home/diogo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/home/diogo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit/2.6.4/xunit.2.6.4.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.analyzers/1.8.0/xunit.analyzers.1.8.0.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.assert/2.6.4/xunit.assert.2.6.4.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.core/2.6.4/xunit.core.2.6.4.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.extensibility.core/2.6.4/xunit.extensibility.core.2.6.4.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.extensibility.execution/2.6.4/xunit.extensibility.execution.2.6.4.nupkg.sha512",
+    "/home/diogo/.nuget/packages/xunit.runner.visualstudio/2.5.6/xunit.runner.visualstudio.2.5.6.nupkg.sha512"
   ],
   "logs": []
 }

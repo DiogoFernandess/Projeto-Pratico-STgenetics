@@ -7,9 +7,9 @@ public class FullComboDiscount : IDiscount
 {
     public bool IsMatch(IEnumerable<Product> items)
     {
-        return items.Any(i => i.Category == ProductCategory.Sandwich) &&
-               items.Any(i => i.Category == ProductCategory.Fries) &&
-               items.Any(i => i.Category == ProductCategory.Soda);
+        return items.Any(i => i.CategoryEnum == ProductCategoryEnum.Sandwich) &&
+               items.Any(i => i.CategoryEnum == ProductCategoryEnum.Fries) &&
+               items.Any(i => i.CategoryEnum == ProductCategoryEnum.Soda);
     }
 
     public decimal CalculateDiscount(IEnumerable<Product> items)

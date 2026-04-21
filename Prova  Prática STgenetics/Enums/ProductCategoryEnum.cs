@@ -1,6 +1,6 @@
 namespace Prova__Prática_STgenetics.enums;
 
-public enum ProductCategory
+public enum ProductCategoryEnum
 {
     Sandwich,
     Fries,

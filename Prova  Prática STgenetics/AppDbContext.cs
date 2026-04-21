@@ -28,11 +28,11 @@ public class AppDbContext : DbContext
     
         // Injeção dos dados "base" no Banco de Dados
         modelBuilder.Entity<Product>().HasData(
-            new Product("X Burger", 5.00m, ProductCategory.Sandwich),
-            new Product("X Egg", 4.50m, ProductCategory.Sandwich),
-            new Product("X Bacon", 7.00m, ProductCategory.Sandwich),
-            new Product("Batata frita", 2.00m, ProductCategory.Fries),
-            new Product("Refrigerante", 2.50m, ProductCategory.Soda)
+            new Product("X Burger", 5.00m, ProductCategoryEnum.Sandwich),
+            new Product("X Egg", 4.50m, ProductCategoryEnum.Sandwich),
+            new Product("X Bacon", 7.00m, ProductCategoryEnum.Sandwich),
+            new Product("Batata frita", 2.00m, ProductCategoryEnum.Fries),
+            new Product("Refrigerante", 2.50m, ProductCategoryEnum.Soda)
         );
 
     }
