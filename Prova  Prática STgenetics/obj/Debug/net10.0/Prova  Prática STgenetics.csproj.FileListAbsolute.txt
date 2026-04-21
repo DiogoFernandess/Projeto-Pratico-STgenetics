@@ -1,0 +1,37 @@
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Prova  Prática STgenetics.staticwebassets.endpoints.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Prova  Prática STgenetics
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Prova  Prática STgenetics.deps.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Prova  Prática STgenetics.runtimeconfig.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Prova  Prática STgenetics.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Prova  Prática STgenetics.pdb
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.csproj.AssemblyReference.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.AssemblyInfoInputs.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.AssemblyInfo.cs
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.csproj.CoreCompileInputs.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.MvcApplicationPartsAssemblyInfo.cs
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.MvcApplicationPartsAssemblyInfo.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.sourcelink.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/scopedcss/bundle/Prova  Prática STgenetics.styles.css
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/staticwebassets.build.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/staticwebassets.development.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/swae.build.ex.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  P.ABC403AD.Up2Date
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/refint/Prova  Prática STgenetics.dll
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.pdb
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/Prova  Prática STgenetics.genruntimeconfig.cache
+/home/diogo/RiderProjects/Prova  Prática STgenetics/Prova  Prática STgenetics/obj/Debug/net10.0/ref/Prova  Prática STgenetics.dll
