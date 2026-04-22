@@ -53,6 +53,7 @@ A documentação visual e interativa dos endpoints está disponível via **Swagg
 1. Clone este repositório para a sua máquina:
    ```bash
    git clone https://github.com/DiogoFernandess/Projeto-Pratico-STgenetics
+   ``
 ---
 ## 🧪 Estratégia de Testes Automatizados
 
@@ -82,4 +83,8 @@ A camada de apresentação (`OrdersController`) tem o papel de orquestrar a requ
 Para executar os testes completos, validar os cenários e visualizar o relatório de sucesso, vá até a raiz do projeto e execute o comando:
 
 ```bash
-dotnet test
+ dotnet test
+```
+---
+### 📩 O que ficou de fora?
+* **Frontend em Blazor**: Frontend que consuma o Backend da API feito em Blazor ( Framework do C# ) 
