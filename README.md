@@ -1,16 +1,18 @@
-# 🍔 Good Hamburger API - STgenetics Challenge
+# Good Hamburger API - STgenetics Desafio Técnico
 
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![xUnit](https://img.shields.io/badge/xUnit-Testing-success?style=for-the-badge)
 ![Moq](https://img.shields.io/badge/Moq-Mocking-4D88FF?style=for-the-badge)
+<br/>
 
 ## 📖 Sobre o Projeto
 Esta é uma API RESTful desenvolvida em C# e .NET para gerenciar o sistema de pedidos da lanchonete "Good Hamburger". O projeto foi construído como desafio técnico para a STgenetics, focando em entregar um código limpo, testável e com regras de negócio sólidas.
 
 ---
+<br/>
 
-## 🏗️ Decisões de Arquitetura
+## Decisões de Arquitetura
 
 Para demonstrar boas práticas de desenvolviemento de software e foco na manutenibilidade, as seguintes decisões técnicas foram adotadas:
 
@@ -20,8 +22,9 @@ Para demonstrar boas práticas de desenvolviemento de software e foco na manuten
 * **Banco de Dados In-Memory:** Optei pelo *Entity Framework Core In-Memory*. Permitindo que o projeto seja baixado e executado instantaneamente, sem a necessidade de rodar scripts SQL ou instalar bancos de dados locais. Caso o sistema fosse para produção, bastaria alterar a injeção no `Program.cs` para um banco relacional (ex: SQL Server) sem impacto no resto do código.
 
 ---
+<br/>
 
-## 🌐 Endpoints da API
+## Endpoints da API
 
 A documentação visual e interativa dos endpoints está disponível via **Swagger** ao rodar o projeto. Abaixo está o resumo das rotas disponíveis:
 
@@ -43,8 +46,9 @@ A documentação visual e interativa dos endpoints está disponível via **Swagg
   * Remove um pedido do sistema.
 
 ---
+<br/>
 
-## 🚀 Instruções de Execução
+## Instruções de Execução
 
 ### Pré-requisitos
 * [.NET 10.0 SDK](https://dotnet.microsoft.com/download) (ou superior) instalado na máquina.
@@ -53,13 +57,16 @@ A documentação visual e interativa dos endpoints está disponível via **Swagg
 1. Clone este repositório para a sua máquina:
    ```bash
    git clone https://github.com/DiogoFernandess/Projeto-Pratico-STgenetics
-   ``
+<br/>
+
 ---
-## 🧪 Estratégia de Testes Automatizados
+<br/>
+
+## Estratégia de Testes Automatizados
 
 A confiabilidade do sistema e a integridade das regras de negócio são garantidas por testes de unidade focados e eficientes. A estratégia adotada segue o princípio de testar comportamentos, dividindo a cobertura em duas frentes estruturais:
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 * **xUnit:** Framework principal para a estruturação, execução e asserção dos testes.
 * **Moq:** Biblioteca de *Mocking* utilizada para isolar dependências externas e simular integrações durante os testes da camada de API.
 
@@ -79,12 +86,16 @@ A camada de apresentação (`OrdersController`) tem o papel de orquestrar a requ
   * **Caminho Feliz:** Garantir que um pedido válido seja acionado ao repositório (`Times.Once`) e retorne status `201 Created`.
   * **Caminho Triste:** Garantir que requisições que quebrem as regras de negócio sejam interceptadas pelo *Controller*, bloqueando a ida ao banco de dados (`Times.Never`) e retornando um erro amigável com status `400 Bad Request`.
 ---
-### 🚀 Como rodar os testes
+<br/>
+
+### Como rodar os testes
 Para executar os testes completos, validar os cenários e visualizar o relatório de sucesso, vá até a raiz do projeto e execute o comando:
 
 ```bash
  dotnet test
 ```
 ---
-### 📩 O que ficou de fora?
+<br/>
+
+### O que ficou de fora?
 * **Frontend em Blazor**: Frontend que consuma o Backend da API feito em Blazor ( Framework do C# ) 
