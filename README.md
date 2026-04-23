@@ -6,7 +6,7 @@
 ![Moq](https://img.shields.io/badge/Moq-Mocking-4D88FF?style=for-the-badge)
 <br/>
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 Esta é uma API RESTful desenvolvida em C# e .NET para gerenciar o sistema de pedidos da lanchonete "Good Hamburger". O projeto foi construído como desafio técnico para a STgenetics, focando em entregar um código limpo, testável e com regras de negócio sólidas.
 
 ---
